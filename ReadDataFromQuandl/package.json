@@ -1,0 +1,13 @@
+{
+  "name": "read-data-from-quandl",
+  "version": "0.0.0",
+  "description": "ReadDataFromQuandl",
+  "main": "app.js",
+  "author": {
+    "name": "sridh"
+  },
+  "dependencies": {
+    "config": "^1.21.0",
+    "request": "^2.75.0"
+  }
+}
