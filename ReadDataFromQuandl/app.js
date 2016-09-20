@@ -30,4 +30,3 @@ qstr = qstr.replace("STARTDATE", formatDate(start_date));
 qstr = qstr.replace("ENDDATE", formatDate(end_date));
 qstr = qstr.replace("APIKEY", apiKey);
 console.log(qstr);
-process.exit(0);
